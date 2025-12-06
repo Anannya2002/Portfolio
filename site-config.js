@@ -17,8 +17,8 @@ const siteConfig = {
         phone: "+1 (555) 019-2834",
         // Social Media Links (leave empty '' if not using)
         social: {
-            instagram: "https://instagram.com",
-            facebook: "https://facebook.com",
+            instagram: "https://www.instagram.com/yash__c9?igsh=NWVqeHhvOWl1bHM=",
+            facebook: "https://www.facebook.com/share/1DAZ4cwHHK/",
             youtube: "https://youtube.com"
         }
     },
@@ -34,7 +34,7 @@ const siteConfig = {
     about: {
         title: "Behind the Lens",
         // Place a portrait named 'profile.jpg' in your folder
-        image: "https://images.unsplash.com/photo-1554048612-387768052bf7?q=80&w=800&auto=format&fit=crop",
+        image: "Yash.jpeg",
         bio: "I am an enthusiastic photographer passionate about storytelling through images. My style blends cinematic flair with candid emotion. Whether it's the roar of a music festival or the quiet intimacy of a wedding, I am there to capture the moment perfectly.",
         stats: ["5+ Years Experience", "200+ Projects", "Cinematic Style"]
     },
@@ -45,14 +45,14 @@ const siteConfig = {
         {
             title: "Wedding Photography",
             desc: "Capturing the magic of your special day with cinematic storytelling.",
-            image: "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=600&auto=format&fit=crop",
-            price: "Starts at $1500"
+            image: "weeding.jpeg",
+            price: "Contact for Quote"
         },
         {
             title: "Pre-Wedding",
             desc: "Romantic and creative couples shoots before the big day.",
             image: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=600&auto=format&fit=crop",
-            price: "Starts at $400"
+            price: "Contact for Quote"
         },
         {
             title: "Corporate",
@@ -64,19 +64,19 @@ const siteConfig = {
             title: "Interior",
             desc: "High-end real estate and architectural photography.",
             image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=600&auto=format&fit=crop",
-            price: "Starts at $300"
+            price: "Contact for Quote"
         },
         {
             title: "Food Photography",
             desc: "Mouth-watering styling and photography for menus and social.",
             image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=600&auto=format&fit=crop",
-            price: "Starts at $250"
+            price: "Contact for Quote"
         },
         {
             title: "Portrait",
             desc: "Creative personal branding, fashion, and lifestyle portraits.",
             image: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=600&auto=format&fit=crop",
-            price: "Starts at $200"
+            price: "Contact for Quote"
         },
         {
             title: "Studio Session",
@@ -100,7 +100,7 @@ const siteConfig = {
             title: "Birthday",
             desc: "Documenting parties and milestones with fun and flair.",
             image: "https://images.unsplash.com/photo-1530103862676-de3c9a59af38?q=80&w=600&auto=format&fit=crop",
-            price: "Starts at $300"
+            price: "Contact for Quote"
         }
     ],
 
@@ -124,3 +124,4 @@ const siteConfig = {
     ]
 
 };
+
